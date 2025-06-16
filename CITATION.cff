@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below."
+title: "The Ananta Theory: Weaving a New Cosmic Tapestry"
+authors:
+  - family-names: "Figueiredo"
+    given-names: "Vítor Manuel Franco"
+    orcid: "https://orcid.org/0009-0004-7358-4622"
+type: report
+doi: 10.5281/zenodo.15616360
+date-released: 2025-06-07
+abstract: >-
+  The Ananta Theory proposes a universe woven from information, seeking
+  to resolve the fragmentation between relativity, quantum mechanics,
+  and consciousness. It reinterprets dark matter as the gravitational
+  memory of the 'Recorded Past' (Pμν), posits that time emerges
+  from the interaction of past and future flows at 'Nexus Points' (black holes),
+  and resolves quantum paradoxes via the 'Ananta Transaction'.
+keywords:
+  - cosmology
+  - information theory
+  - theoretical physics
+  - consciousness
+  - dark matter
+  - emergent time
+  - quantum mechanics
+  - Ananta Theory
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/Tribalx13/Ananta-Theory-"
