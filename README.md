@@ -50,6 +50,14 @@ The Ananta Theory is offered not as a final dogma but as a foundational framewor
     If the universe is woven from information,
 
     then let us learn to read its thread—together.
+    
+"This repository explores the foundations of quantum collapse through information dialogue."
+
+"A formal symbolic model of past-future tension and time emergence."
+
+"A testable reinterpretation of dark matter as the memory tensor PμνPμν​."
+
+"Includes a rigorous CITATION.cff and full preprint with DOI."
 
 🔗 License & Copyright
 
