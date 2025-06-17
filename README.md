@@ -5,6 +5,7 @@ A cosmology of information, where time emerges, gravity remembers, and conscious
 Developed by Vítor M. F. Figueiredo (Independent Theoretical Researcher)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15616360.svg)](https://doi.org/10.5281/zenodo.15616360)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15678889.svg)](https://doi.org/10.5281/zenodo.15678889)
 
 License: See License Section | Copyright: Registered (U.S. & IGAC, Portugal)
 🌀 The Vision
